@@ -1,0 +1,23 @@
+{% assign document = post | default: page %}
+{% if document.cooking_time or document.portions %}
+<p class="page__meta">
+  {% if document.portions %}
+  <span class="page__meta-date">
+    <i class="fas {% if include.type == 'grid' and document.cooking_time and document.portions %}fa-fw {% endif %}fa-users"
+      aria-hidden="true"></i>
+    {{ document.portions }}
+  </span>
+  {% endif %}
+
+  {% if document.cooking_time and document.portions %}<span class="page__meta-sep"></span>{% endif %}
+
+  {% if document.cooking_time %}
+
+  <span class="page__meta-readtime">
+    <i class="far {% if include.type == 'grid' and document.cooking_time and document.portions %}fa-fw {% endif %}fa-clock"
+      aria-hidden="true"></i>
+    {{ document.cooking_time }}
+  </span>
+  {% endif %}
+</p>
+{% endif %}
