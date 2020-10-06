@@ -1,5 +1,5 @@
 {% assign document = post | default: page %}
-{% if document.cooking_time or document.portions %}
+{% if document.cooking_time or document.portions or document.source %}
 <p class="page__meta">
   {% if document.portions %}
   <span class="page__meta-date">
@@ -19,5 +19,21 @@
     {{ document.cooking_time }}
   </span>
   {% endif %}
+
+  {% endif %}
+
+  {% if document.source %}
+  <br />
+  <span style="font: small-caption;">
+    {% assign source = document.source %}
+    {% if source.scope == 'adapted' %}
+    Adapted from
+    {% elsif source.scope == 'inspired' %}
+    Inspired by
+    {% endif %}
+    <a href="{{source.url}}">{{source.name}}</a>
+    <i class="{% if source.type == 'book' %}fas fa-book {% else %}fas fa-external-link-alt {% endif %}superscript"
+      aria-hidden="true"></i>
+  </span>
+  {% endif %}
 </p>
-{% endif %}
