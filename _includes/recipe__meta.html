@@ -31,7 +31,7 @@
     {% elsif source.scope == 'inspired' %}
     Inspired by
     {% endif %}
-    <a href="{{source.url}}">{{source.name}}</a>
+    <a target="_blank" href="{{source.url}}">{{source.name}}</a>
     <i class="{% if source.type == 'book' %}fas fa-book {% else %}fas fa-external-link-alt {% endif %}superscript"
       aria-hidden="true"></i>
   </span>
