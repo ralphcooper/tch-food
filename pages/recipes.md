@@ -6,6 +6,7 @@ excerpt: "A big old list of the recipes we know"
 header:
   overlay_image: /assets/images/evening-dinner.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+classes: wide
 ---
 <style>
   .grid-container {
