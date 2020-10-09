@@ -11,32 +11,47 @@ classes: wide
 <style>
   .grid-container {
     display: grid;
-    grid-template-columns: auto auto auto auto;
-    grid-gap: 10px;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));;
+    grid-gap: 0.5rem;
     padding: 10px;
+    justify-items: center;
   }
 
-  .grid-container > div {
+  .grid-item {
+    padding: 1rem;
+    justify-self: center;
+  }
+
+  .square {
+    width: 180px;
+    height: 180px;
+    overflow: hidden;
+  }
+
+  .wrap {
+    min-width: 0;
+    min-height: 0;
+    word-break: break-word;
+    max-width: 100%;
     text-align: center;
-    padding: 10px 0;
-    
   }
 </style>
 
 <div class="grid-container" style="grid-auto-flow: row;">
   {% for recipe in site.recipes %}
-    <div>
+    <div class="grid-item">
       <a href="{{ recipe.url }}">
+        <div class="square">
         {% if recipe.header.overlay_image %}
           <img src="{{recipe.header.overlay_image}}" width=180 height=180 />
         {% else %}
           <img src="http://placehold.it/180" width=180 height=180 />
         {% endif %}
-        <br />
-        <b>{{ recipe.title }}</b>
+        </div>
+        <p class="wrap">
+          <b>{{ recipe.title }}</b>
+        </p>
       </a>
-      <br/>
-      <span>{{ recipe.blurb | markdownify }}</span>
     </div>
   {% endfor %}
 </div>
