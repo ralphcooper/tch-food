@@ -2,8 +2,8 @@
 title: "Egg Fried Rice"
 excerpt: "Super versatile rice dish"
 header:
-  overlay_image: https://via.placeholder.com/300
-  caption: ""
+  overlay_image: /assets/images/rice.jpg
+  caption: "Photo credit: [pixabay](https://pixabay.com)"
 ingredients: 
   - 300ml / around 250g rice
   - bunch spring onions, sliced

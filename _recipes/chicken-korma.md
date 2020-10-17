@@ -2,8 +2,8 @@
 title: "Chicken Korma"
 excerpt: "Easy Chicken Korma"
 header:
-  overlay_image: https://via.placeholder.com/300
-  caption: "Photo credit: "
+  overlay_image: /assets/images/chicken.jpg
+  caption: "Photo credit: [pixabay](https://pixabay.com)"
 ingredients: 
   - 2 chicken breasts, diced
   - 2 tbsp vegetable oil

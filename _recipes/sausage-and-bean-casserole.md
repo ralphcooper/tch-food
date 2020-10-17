@@ -2,8 +2,8 @@
 title: "Sausage & Bean Casserole"
 excerpt: "Smoky Sausage & Beans in a BBQ Sauce"
 header:
-  overlay_image: https://via.placeholder.com/300
-  caption: "Photo credit: "
+  overlay_image: /assets/images/sausage.jpg
+  caption: "Photo credit: [pixabay](https://pixabay.com)"
 ingredients: 
   - 1 tbsp oil
   - 8 sausages
@@ -18,13 +18,7 @@ ingredients:
   - 2 tsp worcestershire sauce
 instructions:
   - 
-cooking_time: 30mins
+cooking_time: 40mins
 portions: 4
-
-# Source describes where the recipe came from
-source:
-  scope: adapted # adapted = resembles the original, # inspired = changed a lot
-  type: web # web or book
-  url: https://realfood.tesco.com/recipes/chicken-korma-curry.html # web link, or book purchase link
-  name: Chicken Korma Recipe, Tesco Real Food # describe the source
 ---
+Another one from the family cook book. Still trying to decypher the instructions! Will post when I've done it :)
