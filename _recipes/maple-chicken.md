@@ -2,19 +2,19 @@
 title: "Maple Chicken"
 excerpt: "Quick, easy, delicious sticky sweet chicken"
 header:
-  overlay_image: /assets/images/chicken.jpg
+  overlay_image: /assets/images/maple-chicken.jpg
   caption: "Photo credit: [pixabay](https://pixabay.com)"
 ingredients: 
   - 12 chicken thighs / drumsticks
-  - 250 millilitres apple juice
-  - 4 tablespoons maple syrup
-  - 2 tablespoons vegetable oil
-  - 2 tablespoons soy sauce
+  - 250ml apple juice
+  - 4 tbsp maple syrup
+  - 2 tbsp vegetable oil
+  - 2 tbsp soy sauce
   - 2 star anise
   - 1 cinnamon stick (halved)
   - 6 cloves garlic (unpeeled)
 instructions:
-  - Stab the chicken pieces a few times with a knife to help the marinade penitrate.
+  - Stab the chicken pieces a few times with a knife to help the marinade penetrate.
   - Put the chicken pieces in a bag, or a large oven safe dish.
   - Add the remaining ingredients, mixing everything together to completely coat the chicken.
   - Marinate in the fridge overnight, or at least for a few hours.
