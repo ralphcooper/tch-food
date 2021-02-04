@@ -2,7 +2,7 @@
 title: "Cod & Chorizo Stew"
 excerpt: "Quick & Simple Fish Stew"
 header:
-  overlay_image: /assets/images/fish.jpg
+  overlay_image: /assets/images/cod-stew.jpg
   caption: "Photo credit: [pixabay](https://pixabay.com)"
 ingredients: 
   - 1 tbsp oil
