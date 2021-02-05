@@ -3,7 +3,6 @@ title: "Maple Chicken"
 excerpt: "Quick, easy, delicious sticky sweet chicken"
 header:
   overlay_image: /assets/images/maple-chicken.jpg
-  caption: "Photo credit: [pixabay](https://pixabay.com)"
 ingredients: 
   - 12 chicken thighs / drumsticks
   - 250ml apple juice
