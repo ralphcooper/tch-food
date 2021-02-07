@@ -32,3 +32,4 @@ source:
   scope: adapted # adapted = resembles the original, # inspired = changed a lot
   type: book # web or book
 ---
+I took a photo of this one years ago, and can't remember the book it came from. If anyone can help me reference it, that would be fantastic!
