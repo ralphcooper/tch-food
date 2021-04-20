@@ -9,7 +9,7 @@ ingredients:
   - 170g medjool dates
   - 50g coconut oil, melted
   - 225g oats
-  - 75g mixed seeds
+  - 75g mixed seeds (e.g. pumpkin & sunflower)
   - 50g sultanas
   - 2 scoops unflavoured protein powder
   - 1tsp vanilla extract
