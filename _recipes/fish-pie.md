@@ -18,7 +18,7 @@ ingredients:
   - handful peas
   - grated cheddar
 instructions:
-  - Preheat the oven to 200°C/180°C fan fan.
+  - Preheat the oven to 200°C/180°C fan.
   - Boil the potatoes for around 15 minutes until tender, then mash with a bit of butter and a spash of milk if you like.
   - Put the butter, flour and spring onions in a large saucepan on a medium heat. Melt the butter, then cook, stirring, for 2-3 minutes. Gradually add the milk, whisking to avoid lumps, then continue to cook for another few minutes allowing the sauce to thicken.
   - Next mix in the fish, prawns, mustard, sweetcorn, peas and snip in the chives. Give it a good stir then take off the heat and spoon into an oven safe dish.
