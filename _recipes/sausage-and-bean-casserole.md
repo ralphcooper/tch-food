@@ -8,7 +8,7 @@ ingredients:
   - 1 tbsp oil
   - 8 sausages
   - 1/2 tsp paprika
-  - 400g tin canneloni beans
+  - 400g tin cannellini beans
   - 1 red onion, chopped
   - 1 stick celery, sliced
   - 200g chopped tomatoes
